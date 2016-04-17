@@ -1,4 +1,6 @@
 
+Tutorial: https://classroom.udacity.com/courses/ud853
+
 # Creating your travel list
 1. Choose the number of days
 2. You choose a number of presets. f.ex Summer, Winter, Medicine, Makup, etc...
